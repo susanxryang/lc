@@ -1,0 +1,11 @@
+String
+459. Repeated String Pattern
+- StringBuilder
+- If substring length can divide original length, get first substring of such length from original string, 
+	and multiply to check match with original string.
+- check for substring of all lengths 1 to length/2
+
+746.
+- dp variation of climb stairs
+- handle 2 cases
+- convert from recursion to dp

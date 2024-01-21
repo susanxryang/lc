@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "two pointer",
+        "hashmap",
+        "binary search",
+        "bfs_dfs",
+        "backtracking",
+        "Array",
+        ""
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
